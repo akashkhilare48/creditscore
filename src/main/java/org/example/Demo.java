@@ -17,6 +17,7 @@ public class Demo {
     }
     public void massage(){
         System.out.println("singltone class");
+         System.out.println("singltone1 class");
     }
 
 
